@@ -1,0 +1,3 @@
+use this code to run this project.
+
+python emotion_recognition.py
